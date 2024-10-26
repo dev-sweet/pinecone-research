@@ -31,9 +31,9 @@ const Payment = () => {
             </div>
           </div>
         </div>
-      </div>
-      <div className="absolute bottom-0 right-0 left-0">
-        <Footer />
+        <div className="">
+          <Footer />
+        </div>
       </div>
     </>
   );
