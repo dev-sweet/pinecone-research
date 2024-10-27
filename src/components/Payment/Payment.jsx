@@ -31,9 +31,9 @@ const Payment = () => {
             </div>
           </div>
         </div>
-        <div className="">
-          <Footer />
-        </div>
+      </div>
+      <div className="mt-[-50px]">
+        <Footer />
       </div>
     </>
   );

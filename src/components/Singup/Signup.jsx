@@ -136,9 +136,9 @@ const Signup = () => {
             </div>
           </div>
         </div>
-        <div className="">
-          <Footer />
-        </div>
+      </div>
+      <div className="lg:mt-[-50px]">
+        <Footer />
       </div>
     </>
   );
