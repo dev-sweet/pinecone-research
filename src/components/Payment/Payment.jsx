@@ -6,7 +6,7 @@ import CheckoutForm from "./CheckoutForm";
 
 const Payment = () => {
   const stripePromise = loadStripe(import.meta.env.VITE_Publishable_key);
-  console.log(import.meta.env.VITE_Publishable_key);
+
   return (
     <>
       <div className="signup-cover h-screen lg:py-8 py-4">

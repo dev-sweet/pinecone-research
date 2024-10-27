@@ -88,7 +88,7 @@ const Signup = () => {
                     <input
                       {...register("DOB")}
                       required
-                      type="text"
+                      type="date"
                       placeholder="DD/MM/YYYY"
                       className="input input-bordered w-full"
                     />
